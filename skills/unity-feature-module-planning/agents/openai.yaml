@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Feature Module Planning"
+  short_description: "Plan Unity game modules before implementation"
+  default_prompt: "Use $unity-feature-module-planning to analyze a Unity game feature and produce a module plan before implementation."

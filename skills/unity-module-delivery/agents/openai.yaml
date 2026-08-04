@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 模块交付"
+  short_description: "将明确的 Unity 模块需求落地为代码、文档与可验证交付"
+  default_prompt: "Use $unity-module-delivery to implement this Unity module and complete its documentation and verification."

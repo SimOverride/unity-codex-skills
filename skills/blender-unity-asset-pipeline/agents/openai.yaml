@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Unity 资产管线"
+  short_description: "制作并验收可直接导入 Unity 的静态、可调与动画 Blender 资产"
+  default_prompt: "Use $blender-unity-asset-pipeline to create and validate this Blender asset for Unity."

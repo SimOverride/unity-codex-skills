@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 渲染排障"
+  short_description: "系统定位 Unity Shader、阴影、描边、透明与模型导入问题"
+  default_prompt: "Use $unity-render-debug to diagnose this Unity rendering problem and identify the root cause."
