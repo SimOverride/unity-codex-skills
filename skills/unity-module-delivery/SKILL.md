@@ -15,6 +15,7 @@ description: 将已明确或基本明确的 Unity 功能需求完整落地为代
 - 根因集中在 Shader、材质、渲染顺序、阴影、透明、模型法线或导入设置时，改用 `unity-render-debug`。
 - 任务包含 Blender 模型制作、FBX 结构或动画资产交付时，配合 `blender-unity-asset-pipeline`。
 - 用户只要求解释、审查或诊断时，只读分析；除非用户要求修复，否则不要修改。
+- 已有 UI 的布局、输入或配置失效问题可按需使用 `unity-ui-debug`；需要在专用工作树运行 Unity 验证时可按需使用 `unity-test-worktree`。不因普通 UI 开发而自动执行两套额外流程；未安装时依据当前项目规范继续。
 
 ## 工作流
 

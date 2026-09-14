@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 测试工作树"
+  short_description: "核对 Unity 隔离测试的工作树、待测内容、占用与验证结果"
+  default_prompt: "使用 $unity-test-worktree 在项目指定的测试工作树验证本次改动，先核对内容一致性与占用。"
